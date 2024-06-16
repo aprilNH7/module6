@@ -3,22 +3,35 @@
 # Overview
 This project is part of Module 6 of the CS 465 Full Stack Development course.
 It includes a web application that is structured with separate directories for
- the admin panel, API, server, and other resources.
+the admin panel, API, server, and other resources.
 
 # Directory Structure
 .gitignore: Specifies files and directories to be ignored by Git.
+
 .seedgooserc.js: Configuration file for Seedgoose.
+
 .vscode/: Contains Visual Studio Code specific settings.
+
 app.js: Main application file.
+
 app_admin/: Directory containing the admin panel of the application.
+
 app_api/: Directory containing the API of the application.
+
 app_server/: Directory containing server-related files.
+
 bin/: Contains executable scripts for the application.
+
 CS 465 Full Stack Guide.pdf: A guide for the CS 465 Full Stack Development course.
+
 data/: Directory for data files.
+
 package.json: Contains metadata about the project and its dependencies.
+
 package-lock.json: Locks the versions of the project's dependencies.
+
 public/: Directory for publicly accessible files.
+
 travlr/: Directory related to the 'travlr' component of the application.
 
 # Getting Started - Prerequisites
